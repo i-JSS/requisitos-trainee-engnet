@@ -5,10 +5,11 @@
 * **Overview**
     * [2Getters](/)
 * **Pré-Rastreabilidade**
-    * [2Getters](/)
+    * [É, Não é, Faz, Não faz](pages/fazNaoFaz.md)
+    * [Matriz SWOT](pages/swot.md)
 * **Elicitação**
-    * [Personas](/)
-    * [Análise de Protocolo](/)
-    * [Caso de Uso](/)
+    * [Análise de Protocolo](pages/analiseProtocolo.md)
+    * [Personas](pages/personas.md)
+    * [Caso de Uso](pages/casoUso.md)
 * **Pós-Rastreabilidade**
-    * [Forward-From](/)
+    * [Forward-From](pages/forwardFrom.md)
