@@ -40,7 +40,7 @@
        <td align="center">
             <a href="https://github.com/CHZXD">
                 <img style="border-radius: 50%;" src="https://github.com/CHZXD.png" width="150px;"/>
-                <h5 class="text-center"> Caio... <br></h5>
+                <h5 class="text-center"> Caio Leal  <br></h5>
             </a>
         </td>
      
