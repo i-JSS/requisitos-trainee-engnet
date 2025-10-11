@@ -28,13 +28,19 @@
         <td align="center">
             <a href="https://github.com/guiasena">
                 <img style="border-radius: 50%;" src="https://github.com/guiasena.png" width="150px;"/>
-                <h5 class="text-center">Guilherme... <br> </h5>
+                <h5 class="text-center">Guilherme Araujo Sena <br> </h5>
             </a>
         </td>
        <td align="center">
             <a href="https://github.com/i-JSS">
                 <img style="border-radius: 50%;" src="https://github.com/i-JSS.png" width="150px;"/>
                 <h5 class="text-center"> João Antonio Ginuino Carvalho <br></h5>
+            </a>
+        </td>
+       <td align="center">
+            <a href="https://github.com/CHZXD">
+                <img style="border-radius: 50%;" src="https://github.com/CHZXD.png" width="150px;"/>
+                <h5 class="text-center"> Caio... <br></h5>
             </a>
         </td>
      
