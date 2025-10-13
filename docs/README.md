@@ -46,6 +46,6 @@
         <td align="center">
             <a href="https://github.com/stubaLA">
                 <img style="border-radius: 50%;" src="https://github.com/stubaLA.png" width="150px;"/>
-                <h5 class="text-center"> Stuba <br></h5>
+                <h5 class="text-center"> Lenenn <br></h5>
      
 </table>
