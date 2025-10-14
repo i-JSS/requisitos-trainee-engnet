@@ -1,6 +1,6 @@
 <center>
 
-# Matriz SWOT - GymRats
+# Matriz SWOT - Uber
 
 </center>
 
@@ -22,7 +22,7 @@ Matriz SWOT é um modelo usado para analisar os ambientes interno e externo de m
 </center>
 
 <center>
-    <img src="assets/swot.png" alt="swot" style="width:100%; max-width: 800px;"/>
+    <img src="assets/SWOT-Uber.png" alt="swot" style="width:100%; max-width: 800px;"/>
 </center>
 
 <center>
