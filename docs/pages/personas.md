@@ -15,7 +15,7 @@
 </center>
 
 <center>
-    <img src="https://raw.githubusercontent.com/i-JSS/requisitos-trainee-engnet/main/docs/assets/persona1.jpeg?raw=true" style="width:12vw"/> 
+    <img src="https://raw.githubusercontent.com/i-JSS/requisitos-trainee-engnet/refs/heads/master/docs/assets/persona1.jpeg?raw=true" style="width:12vw"/> 
 </center>
 
 > **Gustavo Lima** foi criado para representar os motoristas parceiros que buscam uma fonte de renda flexível e complementar. Ele valoriza a autonomia e a possibilidade de gerenciar seu próprio horário, sendo um usuário que busca maximizar seus ganhos enquanto mantém o controle sobre seu tempo. Sua persona ajuda a entender a importância de funcionalidades como cálculo de estimativa de ganhos, ferramentas de navegação eficientes e suporte ao motorista ágil, pois esses elementos são essenciais para profissionais que dependem da plataforma para sua renda e precisam de ferramentas confiáveis para otimizar seu trabalho.
@@ -64,7 +64,7 @@ Gustavo usa o app do motorista principalmente no seu smartphone durante as corri
 </center>
 
 <center>
-    <img src="https://raw.githubusercontent.com/i-JSS/requisitos-trainee-engnet/main/docs/assets/persona2.jpeg?raw=true" style="width:12vw"/> 
+    <img src="https://raw.githubusercontent.com/i-JSS/requisitos-trainee-engnet/refs/heads/master/docs/assets/persona2.jpeg?raw=true" style="width:12vw"/> 
 </center>
 
 > **Cláudia Leita** foi desenvolvida para representar os passageiros urbanos que dependem do serviço para seu deslocamento diário. Ela busca confiabilidade, segurança e previsibilidade nos seus trajetos, sendo uma usuária que valoriza a praticidade e a economia de tempo. Sua persona destaca a necessidade de estimativas de preço precisas, tempo de espera reduzido e funcionalidades de segurança, atendendo à demanda de usuários que utilizam o serviço regularmente e precisam planejar seus deslocamentos com antecedência.
@@ -113,7 +113,7 @@ Cláudia usa o app de passageiro várias vezes ao dia, sempre que precisa se des
 </center>
 
 <center>
-    <img src="https://raw.githubusercontent.com/i-JSS/requisitos-trainee-engnet/main/docs/assets/persona3.jpeg?raw=true" style="width:12vw"/> 
+    <img src="https://raw.githubusercontent.com/i-JSS/requisitos-trainee-engnet/refs/heads/master/docs/assets/persona3.jpeg?raw=true" style="width:12vw"/> 
 </center>
 
 > **Vinicius Junior** foi criado para representar os motoristas que trabalham em tempo integral na plataforma e dependem dela como principal fonte de renda. Ele busca maximizar sua eficiência e rentabilidade, sendo um usuário que utiliza todas as ferramentas disponíveis para otimizar seu trabalho. Sua persona enfatiza a importância de relatórios de desempenho detalhados, programas de incentivo e suporte especializado, aspectos cruciais para profissionais que consideram a plataforma como seu principal negócio.
