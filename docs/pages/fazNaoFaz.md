@@ -1,6 +1,6 @@
 <center>
 
-# É, Não é, Faz, Não faz - GymRats
+# É, Não é, Faz, Não faz - Uber
 
 </center>
 
@@ -22,12 +22,12 @@
 </center>
 
 <center>
-    <img src="assets/faznaofaz.png" alt="faznaofaz" style="width:100%; max-width: 800px;"/>
+    <img src="assets/faznaofaz-Uber.png" alt="faznaofaz" style="width:100%; max-width: 800px;"/>
 </center>
 
 <center>
 
-**Fonte**: Carvalho (2025).
+**Fonte**: Eduardo (2025).
 
 </center>
 
@@ -45,5 +45,6 @@
 |------------|--------|-----------------------|-------------------------------------------|
 | 06/10/2025 | `1.0`  | Criação do documento. | [João Carvalho](https://github.com/i-JSS) |
 | 07/10/2025 | `1.1`  | Adiciona diagrama.    | [João Carvalho](https://github.com/i-JSS) |
+| 07/10/2025 | `1.2`  | Atualiza diagrama.    | [Eduardo](https://github.com/dudurodriguesz) |
 
 </div>

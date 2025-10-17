@@ -27,7 +27,7 @@ Matriz SWOT é um modelo usado para analisar os ambientes interno e externo de m
 
 <center>
 
-**Fonte**: Carvalho (2025).
+**Fonte**: Araujo (2025).
 </center>
 
 ---
@@ -44,5 +44,6 @@ Matriz SWOT é um modelo usado para analisar os ambientes interno e externo de m
 |------------|--------|-----------------------|-------------------------------------------|
 | 06/10/2025 | `1.0`  | Criação do documento. | [João Carvalho](https://github.com/i-JSS) |
 | 07/10/2025 | `1.1`  | Adiciona diagrama.    | [João Carvalho](https://github.com/i-JSS) |
+| 16/10/2025 | `1.2`  | Atualiza diagrama.    | [Guilherme Sena](https://github.com/guiasena) |
 
 </div>
