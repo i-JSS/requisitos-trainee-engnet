@@ -1,6 +1,6 @@
 <center>
 
-# Requisitos - GymRats
+# Requisitos - Uber
 
 </center>
 
@@ -20,8 +20,8 @@
 <table style="margin: 0 auto; width: fit-content;">
     <tr>
         <td align="center">
-            <a href="https://github.com/guiasena">
-                <img style="border-radius: 50%;" src="https://github.com/Dududzs.png" width="150px;"/>
+            <a href="https://github.com/dudurodriguesz">
+                <img style="border-radius: 50%;" src="https://github.com/dudurodriguesz.png" width="150px;"/>
                 <h5 class="text-center">Eduardo Rodrigues Santos </h5>
             </a>
         </td>
