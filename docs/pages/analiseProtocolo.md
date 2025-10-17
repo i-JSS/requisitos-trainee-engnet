@@ -1,16 +1,12 @@
 <center>
 
-# Análise de Protocolo - GymRats
+# Análise de Protocolo - Uber
 
 </center>
 
 ---
 
-<div align="justify">
-
-&emsp;&emsp;
-A análise de protocolo tem como objetivo documentar, por observação controlada e simulação, o comportamento do usuário e do sistema durante o processo de solicitação de serviço no Uber, com o propósito de extrair requisitos funcionais e não funcionais, identificar decisões de design embutidas e criar artefatos rastreáveis para a etapa de elicitação.
-</div>
+> A análise de protocolo tem como objetivo documentar, por observação controlada e simulação, o comportamento do usuário e do sistema durante o processo de solicitação de serviço no Uber, com o propósito de extrair requisitos funcionais e não funcionais, identificar decisões de design embutidas e criar artefatos rastreáveis para a etapa de elicitação.
 
 ---
 
