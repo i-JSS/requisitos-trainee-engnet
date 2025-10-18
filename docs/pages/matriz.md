@@ -11,7 +11,6 @@
 ## O que é uma matriz de rastreabilidade?
 
 A **matriz de rastreabilidade** é uma ferramenta essencial em projetos de software, usada para assegurar que todos os requisitos levantados durante a fase de elicitação sejam devidamente implementados, testados e validados ao longo do desenvolvimento.  
-
 No contexto do nosso projeto — inspirado no **Uber** — ela garante que cada funcionalidade do sistema (como solicitação de corridas, avaliação de motoristas ou pagamento) esteja conectada a um requisito específico, mantendo o controle e a coerência entre as entregas.
 
 ---
@@ -68,9 +67,9 @@ Para estruturar nossa matriz de rastreabilidade do sistema **Uber**, seguimos as
 
 <div style="margin: 0 auto; width: fit-content;">
 
-| Data | Versão | Descrição | Autores |
-|------|:------:|------------|----------|
-| 18/10/2025 | <span style="color:#e67e22;"><b>1.0</b></span> | Criação e personalização da matriz de rastreabilidade baseada no sistema Uber. | <a href="https://github.com/CHZXD" target="_blank" style="color:#e67e22; text-decoration:none;"><b>Caio Leal Vargas</b></a> |
+| Data       | Versão | Descrição             | Autores                                   |
+|------------|--------|-----------------------|-------------------------------------------|
+| 17/10/2025 | `1.0`  |  Criação e Edição do Documento. | [Caio Leal ](https://github.com/CHZXD) |
 
 </div>
 
