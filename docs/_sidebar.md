@@ -14,5 +14,10 @@
 * **Pós-Rastreabilidade**
     * [Forward-From](pages/forwardFrom.md)
 * **Finalização**
-- [Matriz](pages/finalizacao.md)
+
+  * [O que é uma matriz de rastreabilidade?](pages/finalizacao/matriz.md#o-que-é-uma-matriz-de-rastreabilidade)
+  * [Funções](pages/finalizacao/matriz.md#-funções-da-matriz)
+  * [Nossa abordagem](pages/finalizacao/matriz.md#-nossa-abordagem)
+  * [Tabela de Rastreabilidade do User Story Mapping](pages/finalizacao/matriz.md#-tabela-de-rastreabilidade-do-user-story-mapping)
+
 
