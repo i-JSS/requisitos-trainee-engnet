@@ -16,6 +16,4 @@
 
 * **Finalização**
   * [O que é uma matriz de rastreabilidade?](pages/finalizacao.md#o-que-e-uma-matriz-de-rastreabilidade)
-  * [Funções da Matriz](pages/finalizacao.md#funcoes-da-matriz)
-  * [Nossa abordagem](pages/finalizacao.md#nossa-abordagem)
-  * [Tabela de Rastreabilidade do User Story Mapping](pages/finalizacao.md#tabela-de-rastreabilidade-do-user-story-mapping)
+  
