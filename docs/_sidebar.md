@@ -13,3 +13,6 @@
     * [Caso de Uso](pages/casoUso.md)
 * **Pós-Rastreabilidade**
     * [Forward-From](pages/forwardFrom.md)
+* **Finalização**
+- [Finalização](pages/finalizacao.md)
+
