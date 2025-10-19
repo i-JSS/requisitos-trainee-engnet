@@ -1,54 +1,64 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 <head>
-    <meta charset="UTF-8">
-    <title>2Getters - EngNet</title>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-    <meta name="description" content="Description">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-    <link rel="icon" type="image/png" href="assets/engnet_consultoria_s_c_logo.jpeg">
-    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
-
-    <meta name="author" content="2Getters" />
-    <meta name="description" content="Trainee — 2Getters trainee team at Engnet" />
-    <meta name="keywords" content="Trainee Documentation SPL 2Getters Engnet" />
-
-    <meta property="og:title" content="2Getters" />
-    <meta property="og:image" content="https://i.postimg.cc/SKCcvHV6/2getters.png" />
-    <meta property="og:url" content="https://i-jss.github.io/requisitos-trainee-engnet/" />
-    <meta property="og:type" content="website" />
-    <meta property="og:locale" content="en" />
-    <meta property="og:site_name" content="2Getters Documentation" />
-
+  <meta charset="UTF-8">
+  <title>2Getters - EngNet</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <link rel="icon" type="image/png" href="assets/engnet_consultoria_s_c_logo.jpeg">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <style>
+    .content {
+      max-height: 100vh;
+      overflow-y: auto;
+      padding-right: 20px;
+      margin-left: 260px;
+    }
+    .sidebar {
+      position: fixed !important;
+      top: 0;
+      left: 0;
+      height: 100vh;
+      overflow-y: auto;
+      background-color: #fff;
+      border-right: 1px solid #eee;
+    }
+    html {
+      scroll-behavior: smooth;
+    }
+    .sidebar-nav li.active > a {
+      color: #e6891e !important;
+      font-weight: bold;
+    }
+  </style>
 </head>
 <body>
 <div id="app"></div>
 <script>
-    window.$docsify = {
-        executeScript: true,
-        name: '',
-        repo: 'https://github.com/i-JSS/requisitos-trainee-engnet',
-        loadSidebar: true,
-        themeColor: '#e6891e',
-        coverpage: true,
-        copyCode: {
-            buttonText: 'Copiar',
-            errorText: 'Error',
-            successText: 'Copiado',
-        },
-        search: {
-            placeholder: 'Pesquise aqui',
-            noData: 'Sem Resultados :(',
-        },
-    }
+  window.$docsify = {
+    name: '2Getters - EngNet',
+    repo: 'https://github.com/i-JSS/requisitos-trainee-engnet',
+    coverpage: true,
+    loadSidebar: true,
+    themeColor: '#e6891e',
+    subMaxLevel: 0,
+    auto2top: false,
+    executeScript: true,
+    search: {
+      placeholder: 'Pesquise aqui',
+      noData: 'Sem Resultados :(',
+    },
+    copyCode: {
+      buttonText: 'Copiar',
+      errorText: 'Erro',
+      successText: 'Copiado',
+    },
+  };
 </script>
-<!-- Docsify v4 -->
 <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
-
 <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
 <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
 <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
 <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
-
 </body>
 </html>

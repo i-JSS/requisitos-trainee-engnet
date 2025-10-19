@@ -13,3 +13,7 @@
     * [Caso de Uso](pages/casoUso.md)
 * **Pós-Rastreabilidade**
     * [Forward-From](pages/forwardFrom.md)
+
+* **Finalização**
+  * [O que é uma matriz de rastreabilidade?](pages/finalizacao.md#o-que-e-uma-matriz-de-rastreabilidade)
+  
