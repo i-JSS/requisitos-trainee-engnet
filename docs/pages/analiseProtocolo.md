@@ -62,13 +62,13 @@
 
 A tabela a seguir detalha a sequência de interações do usuário (passos) e as observações sobre o comportamento do sistema para o fluxo de Ajuda e Suporte.
 
-| # | Ação do Usuário no App | Comportamento do Sistema | Observação / Decisão Elicitada |
+| # | Ação do Usuário no App | Comportamento do Sistema | Introspecção / Decisão Elicitada |
 | :--- | :--- | :--- | :--- |
 | **1.** | Abrir o aplicativo da Uber (tela inicial). | O menu do Sistema apresenta opções de solicitações (viagem e envio de produto) e locais solicitados anteriormente (histórico de endereços). | **RF:** O Sistema deve apresentar um menu inicial claro e intuitivo, com opções de serviço e acesso ao histórico do usuário. |
 | **2.** | Clicar em "Conta" (ícone de perfil no canto). | É exibida uma tela com acesso a um plano de fidelidade para desconto de corridas futuras, além das opções de "Ajuda", "Carteira", "Mensagem" e "Checagem de segurança". | **RF:** O Sistema deve centralizar funções de suporte, pagamento e segurança em uma única área de perfil. **RNF (Incentivo):** O Sistema deve promover planos de fidelidade e benefícios para retenção de clientes. |
 | **3.** | Clicar em "Ajuda". | O Sistema informa o resumo da última viagem e oferece opções de suporte segmentadas: "Alterar avaliação", "Problemas com viagem e reembolso", "Conta", "Assinatura", "Acessibilidade", etc. | **RF:** O Sistema deve dar prioridade ao contexto recente do usuário (última viagem) para agilizar o suporte. **RF:** O Sistema deve segmentar o suporte em categorias claras para otimizar o fluxo de encaminhamento do usuário. |
 | **4.** | Clicar em uma viagem anterior na lista de Ajuda. | O Sistema exibe o detalhe da viagem (mapa, valor) e as opções de suporte relevantes para aquele contexto (ex: "Item esquecido"). | **RF:** O Sistema deve rastrear e associar um conjunto de opções de suporte específicas a cada transação (rastreabilidade de dados). |
-| **5.** | [] | [] | [] |
+| **5.** | Clicar em item esquecido | O usuário é redirecionado ao chat de suporte, que lhe oferece diversas opções para entrar em contato com motorista, ou de reportar sobre não conseguir entrar em contato com o motorista em específico. | **RF:** O Sistema deve fornecer um canal de comunicação direta e temporária com o motorista, garantindo a privacidade e a segurança dos dados pessoais. |
 
 ---
 
@@ -78,13 +78,17 @@ A tabela a seguir detalha a sequência de interações do usuário (passos) e as
 
 </center>
 
-Os requisitos a seguir foram extraídos diretamente da observação detalhada do protocolo de interação.
+Os requisitos a seguir foram extraídos diretamente da observação detalhada do protocolo de interação. (***Nota: Os requisitos foram numerados sequencialmente a partir de 22, supondo que sua lista geral já tenha REQ01 a REQ21***).
 
 | Requisito | Descrição | Técnica |
 | :--- | :--- | :--- |
-| **REQ** | [DESCRIÇÃO] | Análise de Protocolo |
-| **REQ** | [DESCRIÇÃO] | Análise de Protocolo |
-| **REQ** | [DESCRIÇÃO] | Análise de Protocolo |
+| **REQ1** | O Sistema deve apresentar um menu inicial claro e intuitivo, com opções de serviço (viagem, envio) e acesso ao histórico do usuário. | Análise de Protocolo |
+| **REQ2** | O Sistema deve centralizar as funções de perfil, pagamento, segurança e suporte em uma única área de acesso. | Análise de Protocolo |
+| **REQ3** | O Sistema deve promover planos de fidelidade e benefícios para incentivar a retenção de clientes (RNF - Incentivo/Marketing). | Análise de Protocolo |
+| **REQ4** | O Sistema deve priorizar o contexto recente do usuário (última viagem) na tela de suporte para agilizar a resolução de problemas. | Análise de Protocolo |
+| **REQ5** | O Sistema deve segmentar as opções de suporte em categorias claras para otimizar o encaminhamento do usuário (ex: Conta, Pagamento, Acessibilidade). | Análise de Protocolo |
+| **REQ6** | O Sistema deve rastrear e associar um conjunto de opções de suporte específicas para cada transação realizada (rastreabilidade de dados). | Análise de Protocolo |
+| **REQ7** | O Sistema deve fornecer um canal de comunicação direta e temporária com o motorista (como um chat ou ligação mascarada) para resolver problemas logísticos, garantindo a privacidade dos números de telefone (RNF - Segurança/Privacidade). | Análise de Protocolo |
 
 ---
 
@@ -99,6 +103,7 @@ Os requisitos a seguir foram extraídos diretamente da observação detalhada do
 | Data | Versão | Descrição | Autores |
 | :---: | :---: | :--- | :--- |
 | 06/10/2025 | `1.0` | Criação do documento. | [João Carvalho](https://github.com/i-JSS) |
-| 17/10/2025 | `1.1` | Implementação do Processo da Análise de Protocolo. | [Lenenni](https://github.com/stubaLA) |
+| 17/10/2025 | `1.1` | Implementação do Processo da Análise de Protocolo. | [Lenenn Rodrigues](https://github.com/stubaLA) |
+| 18/10/2025 | `1.2` | Finalização do processo de Elicitação do projeto. | [Lenenn Rodrigues](https://github.com/stubaLA) | 
 
 </div>
